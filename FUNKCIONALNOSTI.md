@@ -21,7 +21,7 @@ Ta dokument vsebuje seznam funkcionalnosti spletne strani za podjetje Coca-Cola.
 | F03 | Podrobnosti izdelka | Obiskovalec odpre posamezen izdelek in si ogleda sestavine, hranilne vrednosti ter informacije o alergenih. | Visoka |
 | F04 | Iskanje in filtriranje | Obiskovalec poišče izdelek z iskalnikom ali ga filtrira po vrsti, okusu, velikosti in vsebnosti sladkorja. | Srednja |
 | F05 | Iskalnik prodajnih mest | Obiskovalec na zemljevidu najde bližnje trgovine in lokale, kjer so izdelki na voljo. | Srednja |
-| F06 | Registracija in prijava | Obiskovalec si ustvari uporabniški račun in se prijavi, da lahko sodeluje v nagradnih igrah in shranjuje priljubljene izdelke. | Srednja |
+| F06 | Primerjava izdelkov | Obiskovalec izbere do tri izdelke in jih primerja po velikosti, hranilnih vrednostih in vsebnosti sladkorja. | Srednja |
 | F07 | Nagradne igre | Prijavljen uporabnik vnese kodo ali odgovori na vprašanje ter tako sodeluje v aktualni nagradni igri. | Srednja |
 | F08 | Kontaktni obrazec | Obiskovalec pošlje vprašanje, pohvalo ali pritožbo podjetju, odgovor pa prejme po e-pošti. | Visoka |
 | F09 | Novice in blog | Obiskovalec bere novice o izdelkih, trajnosti in dogodkih podjetja ter jih deli na družbenih omrežjih. | Nizka |
